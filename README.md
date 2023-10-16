@@ -6,8 +6,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <table>
   <a href="https://github.com/j040p3dr0fc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j040p3dr0fc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j040p3dr0fc&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j040p3dr0fc&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j040p3dr0fc&layout=compact&langs_count=6&theme=shadow_red"/>
 </table>
 
 <div style="display: inline_block"><br>
