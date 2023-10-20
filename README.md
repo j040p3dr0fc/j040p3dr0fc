@@ -14,7 +14,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <div style="display: inline_block"><br>
 
     
-  <img align="center" alt="João-HTML" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="João-HTML" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
   <img align="center" alt="João-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
@@ -34,11 +34,11 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     
   <img align="center" alt="João-Git" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-  <img align="center" alt="João-Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="João-Unity" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
     
-  <img align="center" alt="João-Unreal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img align="center" alt="João-Unreal" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
     
-  <img align="center" alt="João-Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+  <img align="center" alt="João-Godot" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 </div>
 </table>
   
