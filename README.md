@@ -21,6 +21,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <img align="center" alt="João-VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img align="center" alt="João-SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
     <img align="center" alt="João-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <!--
     <img align="center" alt="João-" src="">
     <img align="center" alt="João-" src="">
