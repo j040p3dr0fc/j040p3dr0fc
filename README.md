@@ -17,7 +17,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 </table>
   
-  ##
+  ## Minhas redes sociais e meus contatos ai!
  
 <div> 
   <!--
@@ -38,7 +38,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 
 <div>
-  <h1>Sistemas operacionais que eu uso no meu dia-a-dia</h1>
+  ##Sistemas operacionais que eu uso no meu dia-a-dia
 
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
