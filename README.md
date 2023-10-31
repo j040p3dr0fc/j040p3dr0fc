@@ -2,7 +2,6 @@
 <!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
--->
 
 <table>
   <a href="https://github.com/j040p3dr0fc">
@@ -12,6 +11,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
     
   <div style="display: inline_block"><br>
+-->
+
 
     
   <img align="center" alt="João-HTML" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
