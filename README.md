@@ -10,8 +10,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j040p3dr0fc&theme=transparent">
 
     
-  <div style="display: inline_block"><br>
 -->
+  <div style="display: inline_block"><br>
 
 
     
