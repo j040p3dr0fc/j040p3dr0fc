@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ## Olá eu sou o João Pedro!
 <!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
@@ -60,9 +62,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://x.com/J040P3DR0___?t=nzXAWhPEibxCaVyVxzl9Kw&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   
 </div>
-
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div>
 <h1>Sistemas operacionais que eu uso no meu dia-a-dia</h1>
