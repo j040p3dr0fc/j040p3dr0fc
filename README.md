@@ -61,6 +61,9 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div>
 <h1>Sistemas operacionais que eu uso no meu dia-a-dia</h1>
   
