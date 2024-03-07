@@ -35,7 +35,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
   <img align="center" alt="João-Unity" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
     
-  <img align="center" alt="João-Unreal" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img align="center" alt="João-Unreal" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
     
   <img align="center" alt="João-Godot" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 </div>
