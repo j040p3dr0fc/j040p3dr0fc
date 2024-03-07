@@ -30,6 +30,10 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
    <img align="center" alt="João-VSCode" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      
    <img align="center" alt="João-VS" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+
+  <img align="center" alt="João-GitHub" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+
+  <img align="center" alt="João-GitLab" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
     
   <img align="center" alt="João-Git" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
@@ -38,6 +42,44 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="João-Unreal" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
     
   <img align="center" alt="João-Godot" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+
+  <img align="center" alt="João-Blender" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+  
+  <img align="center" alt="João-Figma" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  
+  <img align="center" alt="João-Notion" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  
+  <img align="center" alt="João-" heigt="50" width="60" >
+  
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
+
+  <img align="center" alt="João-" heigt="50" width="60" >
 </div>
 </table>
   
