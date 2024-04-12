@@ -48,7 +48,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="João-Figma" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   
   <img align="center" alt="João-Notion" heigt="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-  
+<!--
   <img align="center" alt="João-" heigt="50" width="60" >
   
   <img align="center" alt="João-" heigt="50" width="60" >
@@ -80,6 +80,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="João-" heigt="50" width="60" >
 
   <img align="center" alt="João-" heigt="50" width="60" >
+-->
 </div>
 </table>
   
